@@ -238,6 +238,15 @@ body,html {
     color: #f4a261;
 }
 
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {
